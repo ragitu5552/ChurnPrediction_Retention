@@ -66,4 +66,4 @@ This project addresses the critical business challenge of customer churn by deve
 
 ## Important Note
 
-* I have already deleted the groq API key, at the time you will using!
+* I have already deleted the groq API key, at the time you will be using!
