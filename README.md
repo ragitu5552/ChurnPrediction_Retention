@@ -53,6 +53,9 @@ This project addresses the critical business challenge of customer churn by deve
 * The notebook provides a step-by-step guide to understanding the data, building the models, and generating retention strategies.
 * The chatbot can be implemented by running the relevant code cells in the notebook.
 
+## Logic and Flow
+<img src="churn_flow.png" alt="Flowchart of the Churn prediction strategy flow" align="center" width="500px">
+
 ## Future Improvements
 
 * Integration with real-time customer data streams.
